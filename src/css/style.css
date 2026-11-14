@@ -55,8 +55,13 @@ h3 {
 p,
 li,
 button,
-select {
+select,
+dl {
   font-family: var(--font-family);
+}
+
+dt {
+  font-weight: bold;
 }
 
 a {

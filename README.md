@@ -1,3 +1,3 @@
-# lexa.qex.at
+# clarissep.com
 
-Source code for my website hosted at <https://lexa.qex.at>.
+Source code for my website hosted at <https://clarissep.com>.

@@ -21,8 +21,8 @@ jobs:
           user: ${{ secrets.USER }}
           pass: ${{ secrets.PASS }}
           first_ssh: |
-            rm -rf ./www/lexa.qex.at/*
-            mkdir -p ./www/lexa.qex.at/src/
+            rm -rf ./www/clarissep.com/*
+            mkdir -p ./www/clarissep.com/src/
           scp: |
-            ./src/* => ./www/lexa.qex.at/src/
-            ./pages/* => ./www/lexa.qex.at/
+            ./src/* => ./www/clarissep.com/src/
+            ./pages/* => ./www/clarissep.com/
